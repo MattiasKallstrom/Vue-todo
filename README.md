@@ -1,4 +1,4 @@
-# app
+CRUD application that I made while learning Vue.
 
 ## Project setup
 ```
