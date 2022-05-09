@@ -10,7 +10,7 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHistory('/Vuetodo'),
+  history: createWebHistory(process.env.BASE_URL),
   routes,
 })
 
