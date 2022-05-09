@@ -24,7 +24,7 @@
 
 <script>
 export default {
-  name: "AddTask",
+  name: "AddTask-ADDTSK",
   data() {
     return {
       text: "",
