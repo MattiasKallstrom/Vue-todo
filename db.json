@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Finish this project",
+      "day": "May 9, 2022",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Upload to GitHub",
+      "day": "9th of May, 2022",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Pubblish to GitHub Pages",
+      "day": "05/09/2022",
+      "reminder": false
+    }
+  ]
+}
