@@ -23,7 +23,7 @@ export default {
   },
   computed: {
     homePage() {
-      if (this.$route.path === '/Vuetodo') {
+      if (this.$route.path === '/') {
         return true
       } else {
         return false

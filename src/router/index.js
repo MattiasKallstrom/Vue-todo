@@ -3,7 +3,7 @@ import Home from '../views/Home'
 
 const routes = [
   {
-    path: '/Vuetodo',
+    path: '/',
     name: 'Home',
     component: Home,
   },
