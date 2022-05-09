@@ -4,6 +4,10 @@ CRUD application that I made while learning Vue.
 ```
 npm install
 ```
+## Run the backend
+```
+npm run backend
+```
 
 ### Compiles and hot-reloads for development
 ```
