@@ -3,14 +3,14 @@ import Home from '../views/Home'
 
 const routes = [
   {
-    path: '/',
+    path: '/Vuetodo',
     name: 'Home',
     component: Home,
   },
 ]
 
 const router = createRouter({
-  history: createWebHistory(process.env.BASE_URL),
+  history: createWebHistory('/Vuetodo'),
   routes,
 })
 
