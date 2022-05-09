@@ -1,5 +1,7 @@
 module.exports = {
-  publicPath: '/Vuetodo/',
+  publicPath: process.env.NODE_ENV === 'production'
+  ? '/Vuetodo/'
+  : '/',
   devServer: {
     proxy: {
       '^/api': {
